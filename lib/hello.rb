@@ -6,7 +6,7 @@ def hello_t
     i = i + 1
     end
   
-  array
+    array
   
   else
     puts "Hey! No block was given!"
